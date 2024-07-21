@@ -11,4 +11,4 @@ if pilih_ular == posisi_ular :
     print(f'''SELAMAT {nama_user} anda telah memilih nomer {pilih_ular} goa yang ada ular {posisi_ular}''')
 else:
     print(f'''ANDA GAGAL memilih ular {nama_user} posisi yang anda pilih {pilih_ular} anda akan ketemu ular
-          jika memilih posisi {posisi_ular}''')
+          jika memilih andaposisi {posisi_ular}''')
